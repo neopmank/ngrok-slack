@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jorge Maroto (@patoroco)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "ngrok": "^2.1.7"
+  }
 }
