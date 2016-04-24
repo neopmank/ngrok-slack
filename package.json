@@ -9,6 +9,11 @@
   "author": "Jorge Maroto (@patoroco)",
   "license": "MIT",
   "dependencies": {
-    "ngrok": "^2.1.7"
+    "dotenv": "^2.0.0",
+    "ngrok": "^2.1.7",
+    "node-slack": "0.0.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.1"
   }
 }
