@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^2.0.0",
-    "ngrok": "^2.1.7",
+    "ngrok": "^2.1.9",
     "node-slack": "0.0.7"
   },
   "devDependencies": {
